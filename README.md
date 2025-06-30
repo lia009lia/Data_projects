@@ -10,5 +10,5 @@ This is a training project to practice analysis skills. The goal of the project 
 - `products.csv` — product catalog
 - `sellers.csv` — sellers
 - `returns.csv`  —  return of delivered orders
-- 
-![Scheem](https://raw.githubusercontent.com/lia009lia/main/Data_projects/orders.jpg)
+  
+![Scheem](https://github.com/lia009lia/Data_projects/blob/main/orders.jpg?raw=true)
