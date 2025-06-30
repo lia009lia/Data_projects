@@ -11,3 +11,4 @@ This is a training project to practice analysis skills. The goal of the project 
 - `sellers.csv` — sellers
 - `returns.csv`  —  return of delivered orders
 - 
+![Scheem](https://raw.githubusercontent.com/lia009lia/main/Data_projects/orders.jpg)
