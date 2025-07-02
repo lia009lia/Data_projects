@@ -12,3 +12,12 @@ This is a training project to practice analysis skills. The goal of the project 
 - `returns.csv`  —  return of delivered orders
   
 ![Scheem](https://github.com/lia009lia/Data_projects/blob/main/orders.jpg?raw=true)
+
+
+## Executive Summary
+
+
+### Sales trends
+### Users experience
+
+## Recommendations
